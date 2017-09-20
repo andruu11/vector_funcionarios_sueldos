@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays_funcionario_sueldo", "Arrays_funcionario_sueldo\Arrays_funcionario_sueldo.csproj", "{1331621C-2B84-458B-AF12-E02BEAE97237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1331621C-2B84-458B-AF12-E02BEAE97237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1331621C-2B84-458B-AF12-E02BEAE97237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1331621C-2B84-458B-AF12-E02BEAE97237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1331621C-2B84-458B-AF12-E02BEAE97237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

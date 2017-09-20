@@ -1,0 +1,6 @@
+D:\ayudantia\proyectos-visualstudio\Arrays_funcionario_sueldo\Arrays_funcionario_sueldo\bin\Debug\Arrays_funcionario_sueldo.exe.config
+D:\ayudantia\proyectos-visualstudio\Arrays_funcionario_sueldo\Arrays_funcionario_sueldo\bin\Debug\Arrays_funcionario_sueldo.exe
+D:\ayudantia\proyectos-visualstudio\Arrays_funcionario_sueldo\Arrays_funcionario_sueldo\bin\Debug\Arrays_funcionario_sueldo.pdb
+D:\ayudantia\proyectos-visualstudio\Arrays_funcionario_sueldo\Arrays_funcionario_sueldo\obj\Debug\Arrays_funcionario_sueldo.csprojResolveAssemblyReference.cache
+D:\ayudantia\proyectos-visualstudio\Arrays_funcionario_sueldo\Arrays_funcionario_sueldo\obj\Debug\Arrays_funcionario_sueldo.exe
+D:\ayudantia\proyectos-visualstudio\Arrays_funcionario_sueldo\Arrays_funcionario_sueldo\obj\Debug\Arrays_funcionario_sueldo.pdb

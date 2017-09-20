@@ -1,0 +1,6 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\Arrays1\bin\Debug\Arrays1.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\Arrays1\bin\Debug\Arrays1.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Arrays1\bin\Debug\Arrays1.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\Arrays1\obj\Debug\Arrays1.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Arrays1\obj\Debug\Arrays1.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Arrays1\obj\Debug\Arrays1.pdb
